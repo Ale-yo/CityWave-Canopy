@@ -16,7 +16,7 @@ The analysis focuses on the **2–8 Hz** frequency range and covers:
 
 - `scripts/` — MATLAB scripts and `.mat` datasets (`main.m`, `find_sensors.m`, `connectivity.mat`, `FRF_H1.mat`, `punti_laser.mat`, `modal_output.mat`, `peak_picking.m`).
 - `report/` — Project report (`Canopy.pdf`).
-- `LICENSE` — Project licens[cite: 1].
+- `LICENSE` — Project licens.
 
 ## Usage
 
