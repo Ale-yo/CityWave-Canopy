@@ -1,6 +1,6 @@
 # Dynamic Analysis of the CityWave Canopy
 
-Modal identification and numerical validation of the **CityWave Canopy** structure in the CityLife district, developed for the *Advanced Dynamics of Mechanical Systems* course at Politecnico di Milano (A.Y. 2025/2026).
+Modal identification and numerical validation of the **CityWave Canopy** structure in the CityLife district in Milan, developed for the *Advanced Dynamics of Mechanical Systems* course at Politecnico di Milano (A.Y. 2025/2026).
 
 ## Project Overview
 
